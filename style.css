@@ -1,0 +1,7 @@
+.flex-list{     display: flex;
+                gap: 1rem;
+}
+
+.flex-list div{
+    width: max-content;
+}
